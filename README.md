@@ -8,7 +8,7 @@ I build this workflow since some math-related codes ``\(\)``, ``\[\]`` cannot be
 # Installation
 
 1. Install ``pandoc`` (``brew install pandoc``).
-2. Download [Alfred workflow](https://github.com/jxpeng98/LaTex-Markdown-Convert/releases/download/v0.1/LaTeX-Markdown-Convert.alfredworkflow).
+2. Download [Alfred workflow](https://github.com/jxpeng98/Alfred-Workflow-LaTex-Markdown-Convert/releases/download/v0.1/LaTeX-Markdown-Convert.alfredworkflow).
 3. Drag and drop the workflow to Alfred or double clink the downloaded file.
 
 # How to use
