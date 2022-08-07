@@ -1,4 +1,4 @@
-# LaTex-Markdown-Convert
+# Alfred-Workflow-LaTex-Markdown-Convert
  This is a simple Alfred workflow to convert snippets between LaTex and Markdown. 
 
 This Alfred workflow is motivated by [alfred-latex-md](https://github.com/zeitlings/alfred-latex-md) and [alfred-pandoc-clipboard-convert](https://github.com/flegfleg/alfred-pandoc-clipboard-convert).
