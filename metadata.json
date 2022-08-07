@@ -1,0 +1,13 @@
+{
+  "alfredworkflow" : {
+    "category" : "Tools",
+    "readme" : "Pandoc is key and has to be installed:  \n\n\t$ brew install pandoc\n\nMore information: https:\/\/pandoc.org\/",
+    "createdby" : "Jiaxin Peng",
+    "downloadurl" : "",
+    "version" : "0.1",
+    "bundleid" : "",
+    "description" : "Convert snippets between LaTex and Markdown with clipboard",
+    "name" : "LaTeX-Markdown-Convert",
+    "webaddress" : "https:\/\/github.com\/jpeng98"
+  }
+}
